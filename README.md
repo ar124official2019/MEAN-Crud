@@ -10,9 +10,9 @@
 
 2. Go to directory `number-plate-crud-express`
 
-  2.1 Command:- `npm install`
+   2.1 Command:- `npm install`
 
-  2.2 Command:- `npm start`
+   2.2 Command:- `npm start`
 
 3. Visit page at http://localhost:3000
 
@@ -22,14 +22,16 @@
 
 2. Go to directory `number-plate-crud-express`
 
-  2.1 Command:- `npm install`
+   2.1 Command:- `npm install`
 
-  2.2 Command:- `npm start`
+   2.2 Command:- `npm start`
   
 3. Go to directory `number-plate-crud-angular`
 
-  3.1 Command:- `npm install -g @angular/cli`
-  3.2 Command:- `npm install`
-  3.3 Command:- `ng serve`
+   3.1 Command:- `npm install -g @angular/cli`
+  
+   3.2 Command:- `npm install`
+  
+   3.3 Command:- `ng serve`
   
 4. Run at http://localhost:4200
